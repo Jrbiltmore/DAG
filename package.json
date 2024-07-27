@@ -1,0 +1,12 @@
+{
+  "name": "dag-ledger-prototype",
+  "version": "1.0.0",
+  "description": "A DAG-based ledger prototype",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
